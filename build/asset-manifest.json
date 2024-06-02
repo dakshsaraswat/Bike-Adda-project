@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fcdf31d1.css",
+    "main.js": "/static/js/main.b8a2443e.js",
+    "static/media/KTMDuke250@3x.jpg": "/static/media/KTMDuke250@3x.f7c0da31a37b57ce81a8.jpg",
+    "static/media/RoyalEnfieldThunderbird350@3x.jpg": "/static/media/RoyalEnfieldThunderbird350@3x.0b4d1618ca7263f2735c.jpg",
+    "static/media/HondaCBR150@3x.jpg": "/static/media/HondaCBR150@3x.b7c4bda20d2988e43d54.jpg",
+    "static/media/BajajAvengerCruise220@3x.jpg": "/static/media/BajajAvengerCruise220@3x.d7aae495f343846fa9d3.jpg",
+    "static/media/RoyalEnfieldContinentalGT500@3x.jpg": "/static/media/RoyalEnfieldContinentalGT500@3x.16bbed348b263a0893e9.jpg",
+    "static/media/RoyalEnfieldClassic350@3x.jpg": "/static/media/RoyalEnfieldClassic350@3x.bfbbfd53b11e0cacdf67.jpg",
+    "static/media/BajajAvengerStreet220@3x.jpg": "/static/media/BajajAvengerStreet220@3x.c83115e4862e882360ff.jpg",
+    "static/media/BajajCT100@3x.jpg": "/static/media/BajajCT100@3x.959f602a0de9bac4f35b.jpg",
+    "static/media/RoyalEnfieldHimalayan@3x.jpg": "/static/media/RoyalEnfieldHimalayan@3x.61f870ba7a24c0266826.jpg",
+    "static/media/BajajPulsar135@3x.jpg": "/static/media/BajajPulsar135@3x.e448c98088190d05fcf5.jpg",
+    "static/media/BajajPulsarNS220@3x.jpg": "/static/media/BajajPulsarNS220@3x.478e78a5bea80aa97868.jpg",
+    "static/media/HondaNavi@3x.jpg": "/static/media/HondaNavi@3x.532b82bc8f728f7b7762.jpg",
+    "static/media/bike-Icon.svg": "/static/media/bike-Icon.966ca3df9ce4b5dd60d28af932bd1cf8.svg",
+    "static/media/Smarter-Mobility.svg": "/static/media/Smarter-Mobility.228d0334b21f54a6f9ca74939087db5f.svg",
+    "static/media/ONN-Stations.svg": "/static/media/ONN-Stations.4a185804b3ded386daa73696b320ff3b.svg",
+    "static/media/Flexible-Ownership.svg": "/static/media/Flexible-Ownership.845a036f4dae1f658dfdbcc96e1b1ca3.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.fcdf31d1.css.map": "/static/css/main.fcdf31d1.css.map",
+    "main.b8a2443e.js.map": "/static/js/main.b8a2443e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcdf31d1.css",
+    "static/js/main.b8a2443e.js"
+  ]
+}
